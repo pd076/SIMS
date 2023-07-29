@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 18,
+      "grade": 12
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 17,
+      "grade": 11
+    }
+  ],
+  "teachers": [
+    {
+      "id": 101,
+      "name": "Mr. Johnson",
+      "subject": "Mathematics"
+    },
+    {
+      "id": 102,
+      "name": "Mrs. Anderson",
+      "subject": "Science"
+    }
+  ]
+}
